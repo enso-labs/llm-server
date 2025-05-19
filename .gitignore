@@ -3,3 +3,5 @@ docker/redis/data
 # Test coverage
 coverage/
 .cursor*
+.venv/
+__pycache__/
