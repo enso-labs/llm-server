@@ -1,3 +1,13 @@
+# 🚨 DEPRECATION NOTICE
+
+**⚠️ This repository is no longer maintained.**  
+As of **June 10, 2025**, this project has been officially deprecated and archived. It will no longer receive updates, security patches, or support from the maintainers.
+
+### 👉 Recommended Action:
+We recommend transitioning to [Ensō Orchestra](https://github.com/enso-labs/orchestra), which serves as the actively maintained and improved successor to this project.
+
+---
+
 <h1 align="center">
   🤖 Prompt Engineers AI - LLM Server 
 </h1>
@@ -5,13 +15,6 @@
 <p align="center">
 Full LLM REST API with prompts, LLMs, Vector Databases, and Agents
 </p>
-
-<hr>
-
-## ⚠️ Deprecation Notice
-
-This project is **deprecated** and is being superseded by [Orchestra](https://github.com/enso-labs/orchestra). 
-Please refer to the new repository for continued support and updates.
 
 <p align="center">
   <a href="https://promptengineers-ai.gitbook.io/documentation/open-source"><img src="https://img.shields.io/badge/View%20Documentation-Docs-yellow"></a>
