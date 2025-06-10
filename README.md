@@ -6,11 +6,12 @@
 Full LLM REST API with prompts, LLMs, Vector Databases, and Agents
 </p>
 
-<div style="border: 1px solid red; padding: 10px; margin: 20px; background-color: #f8d7da; color: #721c24;">
-  <strong>⚠️ Deprecation Notice!</strong><br>
-  This project is deprecated and is being superseded by <a href="https://github.com/enso-labs/orchestra">Orchestra</a>. 
-  Please refer to the new repository for continued support and updates.
-</div>
+<hr>
+
+## ⚠️ Deprecation Notice
+
+This project is **deprecated** and is being superseded by [Orchestra](https://github.com/enso-labs/orchestra). 
+Please refer to the new repository for continued support and updates.
 
 <p align="center">
   <a href="https://promptengineers-ai.gitbook.io/documentation/open-source"><img src="https://img.shields.io/badge/View%20Documentation-Docs-yellow"></a>
